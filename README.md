@@ -1,2 +1,2 @@
 # teste
-configurando git
+configurando git no vscode
